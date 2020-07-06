@@ -69,6 +69,8 @@ p {
     padding: 30px;
     margin-bottom: 30px;
 }
+
+
 .footer {
     position: fixed;
     left: 0;
@@ -78,3 +80,10 @@ p {
     color: white;
     text-align: center;
 }
+
+.fa {
+    color: #d6ccc2
+}
+.fa:hover{
+    color: #3a3042;
+   }
