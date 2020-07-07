@@ -1,3 +1,4 @@
 # chelSEA-88.github.io
 
-* This assignment was a challenge, but clearly so important! I am learning that being a developer requires TONS of research. I am so excited to keep working on this page, and others, and sharpening my skills!! I feel very proud of this assignment so far, and I look forward to your feedback. 
+* This assignment was a challenge, but clearly so important! I am learning that being a developer requires TONS of research. I am so excited to keep working on this page, and others, and sharpening my skills!! My goal here was to mostly meet requirements of the assignment. It was fun to do some personalization, becuase that's where I really learned some fun stuff.  I feel very proud of this assignment so far, and I look forward to your feedback. 
+* I am not sure what kind of verbiage is required on the read me, and I couldn't figure out how to make comments on my CSS file without blocking out the whole file. 
