@@ -71,10 +71,7 @@ p {
 }
 
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
+.sticky-footer {
     width: 100%;
     background-color:#bcac9b;
     color: white;
