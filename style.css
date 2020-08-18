@@ -84,3 +84,8 @@ p {
 .fa:hover{
     color: #3a3042;
    }
+
+  .resume-window {
+    display: block;
+    
+  }
