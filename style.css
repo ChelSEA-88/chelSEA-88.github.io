@@ -14,8 +14,12 @@ html {
     min-height: 100%;
   }
   main {
-    margin: 80px 0;
+    margin: 80px 20px;
   }
+/* .frame-wrapper {
+    margin: 20px 0;
+  
+} */
   .block {
     background-color: #3e5965;
     padding: 30px;
@@ -84,8 +88,3 @@ p {
 .fa:hover{
     color: #3a3042;
    }
-
-  .resume-window {
-    display: block;
-    
-  }
