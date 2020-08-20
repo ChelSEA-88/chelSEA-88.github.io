@@ -18,3 +18,6 @@
 ![](assets/portfolio2.png)
 
 ![](assets/portfolio3.png)
+
+
+![](Resume.pdf)
