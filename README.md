@@ -12,6 +12,8 @@
 
 * Submit an updated LinkedIn profile
 
+https://chelsea-88.github.io/
+
 
 ![](assets/portfolio1.png)
 
