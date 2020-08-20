@@ -69,9 +69,32 @@ p {
     background-color: #d6ccc2;
     padding: 30px;
     margin-bottom: 30px;
-    opacity: 60%;
+    
+}
+.portfolio-block-header {
+  color: #bcac9b;
+  font-family: 'Clicker Script', cursive;
+  font-size: 4em;
 }
 
+
+
+.project-description {
+  display: inline;
+}
+
+#text {
+margin-bottom: 20%;
+}
+
+
+
+.photo {
+  width: 100%;
+}
+
+
+ /* Footer */
 
 .sticky-footer {
     width: 100%;
@@ -86,3 +109,5 @@ p {
 .fa:hover{
     color: #3a3042;
    }
+
+
