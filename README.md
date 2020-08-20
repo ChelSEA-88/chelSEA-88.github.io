@@ -2,10 +2,6 @@
 
 # Unit 08 Project 1 Homework: Professional Materials
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
-
-If you are opting out of career services, this is _still a required assignment_. Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but is still _critical_ on your journey as a developer.
-
 ## Requirements
 
 * Submit an updated portfolio featuring project 1 and two exemplary homework assignments.
@@ -34,8 +30,6 @@ If you are opting out of career services, this is _still a required assignment_.
 
 ## Updated Portfolio
 
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
-
 Your updated portfolio should contain the following:
 
 1. Your full name
@@ -58,8 +52,6 @@ Your updated portfolio should contain the following:
 
 #### Design
 
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
 
 * Mobile-first design
 * Choose a color palette for your site so it doesn't just look like
@@ -108,7 +100,7 @@ Employers (and potential collaborators) _will_ look at your GitHub profile, so p
 
 ### 3. Updated Resume
 
-💁 Need help building a resume? Check out the [Career Services milestone resources](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-develop-your-resume).
+
 
 Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
 
@@ -122,21 +114,10 @@ Your resume should include:
 
 ### 4. Updated LinkedIn Profile
 
-💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
-### ⭐ 5. For Job-Seeking Students (BONUS)
 
-If you are a job-seeking student, then getting yourself marked as employer-ready is an important step to take because you'll get:
-
-* added to our employer referral list where we'll help match you with employers for int`erviews
-
-* exclusive access to workshops for employer-ready students
-
-* a statistically higher success rate in your job search
-
-So if you are going to be looking for a job at the end of bootcamp, go ahead and submit these updated items to your Career Materials Advisor (formerly, Profile Coach) via BootcampSpot.
 
 ---
 
