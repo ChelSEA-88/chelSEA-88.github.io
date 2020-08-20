@@ -16,10 +16,7 @@ html {
   main {
     margin: 80px 20px;
   }
-/* .frame-wrapper {
-    margin: 20px 0;
-  
-} */
+
   .block {
     background-color: #3e5965;
     padding: 30px;
@@ -69,9 +66,10 @@ p {
 }
 
 .portfolio-block {
-    background-color: #3e5965;
+    background-color: #d6ccc2;
     padding: 30px;
     margin-bottom: 30px;
+    opacity: 60%;
 }
 
 
