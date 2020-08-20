@@ -1,4 +1,4 @@
-# chelSEA-88.github.io
+
 
 # Unit 08 Project 1 Homework: Professional Materials
 
@@ -19,6 +19,7 @@ https://www.linkedin.com/in/chelseahaviland13/
 Updated GitHub Profile:
 https://github.com/ChelSEA-88
 
+# Portfolio page updates:
 
 ![](portfolio1.png)
 
